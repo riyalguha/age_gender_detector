@@ -31,6 +31,5 @@ A simple Age and Gender detector using Machine Learning
 
 ## Sample Outputs
 ### Sample Output 1
-![Sample Output 1]()
-### Sample Output 2
-![Sample Output 2]()
+![Sample Output 1](https://github.com/riyalguha/age_gender_detector/blob/main/Screenshot%202023-06-14%20010321.png)
+
